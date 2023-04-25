@@ -1,0 +1,32 @@
+<svg width="72" height="73" viewBox="0 0 72 73" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 36.5273C0 16.6451 16.1177 0.527344 36 0.527344V0.527344C55.8823 0.527344 72 16.6451 72 36.5273V36.5273C72 56.4096 55.8823 72.5273 36 72.5273V72.5273C16.1177 72.5273 0 56.4096 0 36.5273V36.5273Z" fill="#E74040"/>
+    <g clip-path="url(#clip0_2636_360)">
+        <g clip-path="url(#clip1_2636_360)">
+            <g clip-path="url(#clip2_2636_360)">
+                <path d="M51 44.4016C51 43.1809 50.2139 42.1501 49.125 41.7617V32.0496L51 31.2766L35 24.8569L19 31.2766L35 37.6962L47.25 32.8025V41.7617C46.1611 42.1501 45.375 43.1809 45.375 44.4016C45.375 45.5191 46.035 46.4783 46.9813 46.9316L45.4236 51.6049L47.2015 52.1982L48.1875 49.2401L49.1735 52.1982L50.9514 51.6049L49.3937 46.9316C50.34 46.4784 51 45.5191 51 44.4016Z" fill="white"/>
+            </g>
+        </g>
+        <g clip-path="url(#clip3_2636_360)">
+            <g clip-path="url(#clip4_2636_360)">
+                <path d="M35 39.7166L26.5625 36.3286V38.7764C26.5625 41.4488 30.1898 43.4639 35 43.4639C39.8102 43.4639 43.4375 41.4488 43.4375 38.7764V36.3286L35 39.7166Z" fill="white"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <clipPath id="clip0_2636_360">
+            <rect width="32" height="32" fill="white" transform="translate(19 22.5273)"/>
+        </clipPath>
+        <clipPath id="clip1_2636_360">
+            <rect width="32" height="27.3413" fill="white" transform="translate(19 24.8569)"/>
+        </clipPath>
+        <clipPath id="clip2_2636_360">
+            <rect width="32" height="27.3413" fill="white" transform="translate(19 24.8569)"/>
+        </clipPath>
+        <clipPath id="clip3_2636_360">
+            <rect width="16.875" height="7.13525" fill="white" transform="translate(26.5625 36.3286)"/>
+        </clipPath>
+        <clipPath id="clip4_2636_360">
+            <rect width="16.875" height="7.13525" fill="white" transform="translate(26.5625 36.3286)"/>
+        </clipPath>
+    </defs>
+</svg>
